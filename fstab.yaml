@@ -1,2 +1,5 @@
 mountpoints:
-  /: "https://author-p139118-e1411557.adobeaemcloud.com/bin/franklin.delivery/mohamed-vj-mc/eds-wysiwyg-poc/main"
+  /:
+    url: "https://author-p139118-e1411557.adobeaemcloud.com/bin/franklin.delivery/mohamed-vj-mc/eds-wysiwyg-poc/main"
+    type: "markup"
+    suffix: ".html"
